@@ -77,6 +77,10 @@ This project uses:
 - `.logwizard` file to store the current working file
 - Helpful error handling and exit codes
 - Colorful output with `click.secho` for readability
+- ### 📝 .logwizard file
+
+This file is created automatically to remember the last loaded log file path. It's local to your system and included in `.gitignore`.
+
 
 ---
 
